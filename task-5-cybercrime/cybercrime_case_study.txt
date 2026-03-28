@@ -1,0 +1,28 @@
+Part A: Case Study – UPI QR Code Fraud
+What it is: UPI (Unified Payments Interface) fraud involves tricking users into sending money or giving access to their bank accounts through digital payment apps. A common version is "QR Code Scam."
+
+How it happens: 1. The fraudster poses as a buyer on a platform like OLX or Facebook Marketplace.
+2. They claim they want to pay you and send a QR code via WhatsApp.
+3. They tell you to "Scan this code to receive the payment."
+4. When you scan it and enter your UPI PIN, money is actually debited from your account instead of being credited.
+
+Who is targeted: Generally, people selling items online or those not familiar with the technicality that "Scanning a QR is only for paying, not receiving."
+
+Consequences: Immediate financial loss, potential compromise of bank account links, and emotional distress.
+
+Part B: Prevention Checklist (8 Essential Tips)
+1.Never enter a UPI PIN to receive money: Remember, your PIN is only required for sending money.
+
+2.Verify the recipient's name: Before clicking 'Pay' on any UPI app, double-check the name shown in the app.
+
+3.Do not scan random QR codes: Only scan codes at trusted merchant shops or known websites.
+
+4.Enable App Lock: Keep your UPI apps (GPay, PhonePe, Paytm) protected with a biometric or separate pattern lock.
+
+5.Be wary of 'Request Money' notifications: Fraudsters often send payment requests; decline any request from an unknown person.
+
+6.Use a strong UPI PIN: Avoid using simple codes like 1234 or your birth year.
+
+7.Report immediately on 1930: If you are a victim of financial fraud, call the National Cybercrime Helpline at 1930.
+
+8.Use the official portal: Report any cyber incidents at cybercrime.gov.in.
