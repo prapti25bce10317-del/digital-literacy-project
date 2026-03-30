@@ -1,17 +1,25 @@
 # Digital Literacy Project
 
-**Name:** Prapti Singh  
-**Registration Number:** 25BCE10317  
-**University:** VIT Bhopal University  
 
----
 
-## 📌 Project Overview
-This repository contains the completed tasks for the **CSE0001: Digital Literacy** course. The project aims to demonstrate proficiency in essential digital tools, online professional presence, and awareness of cyber security.
+##  Project Overview
+This repository serves as a comprehensive digital portfolio for the CSE0001: Digital Literacy course. The project is designed to bridge the gap between theoretical knowledge and practical application in the modern digital landscape.
 
----
+The primary objectives of this project include:
 
-## 📂 Task Summary
+Digital Identity Construction: Building a cohesive and professional online presence across platforms like GitHub, LinkedIn, and Kaggle.
+
+Tool Proficiency: Demonstrating hands-on experience with industry-standard tools such as Canva for visual communication and Google Forms for data collection.
+
+Security & Ethics: Developing a deep understanding of cyber hygiene, email etiquette, and the mechanics of modern financial frauds (like UPI scams) to navigate the internet safely.
+
+Problem Solving: Applying computational thinking through entry-level coding challenges and structured information synthesis.
+
+By completing these tasks, this project showcases a well-rounded foundation in the essential skills required for academic success and professional growth in the 21st century.
+
+
+
+##  Task Summary
 
 ### Task 1: Digital Literacy Infographic
 - **Content:** An infographic covering the definition of digital literacy, safe internet practices, and essential digital tools.
@@ -39,7 +47,16 @@ This repository contains the completed tasks for the **CSE0001: Digital Literacy
 - **Prevention:** An 8-point safety checklist including official reporting channels (1930 and cybercrime.gov.in).
 - **Location:** `task-5-cybercrime/`
 
----
+## Learning Outcomes
+Through the duration of this course, I have achieved the following:
 
-## 📄 Final Report
+Critical Thinking: Evaluated various cyber threats and formulated prevention strategies.
+
+Effective Communication: Mastered the art of writing professional inquiries and extensions.
+
+Technical Agility: Navigated multiple developer and professional platforms (Kaggle/GitHub) with ease.
+
+Resourcefulness: Learned to use official government and academic resources to verify information and report digital crimes.
+
+##  Final Report
 The complete detailed project report summarizing all learnings and task execution can be found in the `report/` folder.
